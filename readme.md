@@ -1,1 +1,1 @@
-This is a demo project for my blog article.
+This is a demo project for my [blog article](http://blog.wille-zone.de/post/disable-application-insights-correlation-id-headers-on-httpclient-requests-in-aspnet-core/).
